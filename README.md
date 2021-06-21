@@ -23,11 +23,5 @@ Methode update: Player input und Spiellogik (wird 60 mal pro sekunde abgerufen)
 int variable player
 timer schwarz und weiß
 
-
-
-
-
-
-
-
-
+Klasse Fenster:
+Beschreibt den Aufbau des Fensters usw.
